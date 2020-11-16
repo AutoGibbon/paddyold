@@ -4,7 +4,7 @@
 	"colors": {
 		"foreground": "#cfb5a9",
 
-		"editor.background": "#222729",
+		"editor.background": "#1E2122",
 		"editor.foreground": "#cfb5a9",
 		"editorCursor.background": "#31925d55",
 		"editorCursor.foreground": "#32bb70",

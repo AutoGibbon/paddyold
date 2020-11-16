@@ -1,21 +1,26 @@
 {
-    "name": "paddy-medium-old",
-    "displayName": "Paddy Medium Old",
-    "description": "This is a revival of a pervious version of Paddy Color Theme. It has changed and I no longer love it. I wanted the old one back. This is it.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Paddy Medium Old",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Paddy Medium Old-color-theme.json"
-            }
-        ]
-    }
+	"name": "paddy-medium-old",
+	"publisher": "autogibbon",
+	"displayName": "Paddy Medium Old",
+	"description": "This is a revival of a pervious version of Paddy Color Theme. It has changed and I no longer love it. I wanted the old one back. This is it.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Paddy Medium Old",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Paddy Medium Old-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AutoGibbon/paddyold.git"
+	}
 }
