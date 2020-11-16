@@ -3,7 +3,7 @@
 	"publisher": "autogibbon",
 	"displayName": "Paddy Medium Old",
 	"description": "This is a revival of a pervious version of Paddy Color Theme. It has changed and I no longer love it. I wanted the old one back. This is it.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
